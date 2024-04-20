@@ -9,6 +9,7 @@
         "evaluation_result": "match",
         "matchers": [
           {
+            "description": "heartbeat matcher",
             "is_enabled": true,
             "matcher_type": "REGEX_MATCH",
             "is_negated": false,
